@@ -5,14 +5,14 @@
 
 
 [[main]]
-  name = "Demo"
-  url = "#hero"
+  name = "About"
+  url = "#about"
   weight = 10
 
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Publications"
+  url = "#publications"
   weight = 20
 
 [[main]]
@@ -21,19 +21,14 @@
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Awards"
+  url = "#awards"
   weight = 40
-
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

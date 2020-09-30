@@ -1,8 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Get a Grip: Evaluating Grip Gestures for VR Input using a Lightweight Pen"
-authors: []
+title: "Get a Grip: Evaluating Grip Gestures for VR Input using a Lightweight Pen (CHI' 20)"
+authors: ["**Nianlong Li**", "Teng Han*", Feng Tian, Jin Huang, Minghui Sun,  Pourang Irani, "Jason Alexander
+<div>
+<img style='float: left;' src='/publication/icon-award.jpg'>
+<font color=red>Best Paper Honorable Mention Award</font>
+</div>
+"]
+
 date: 2020-09-25T15:49:20+08:00
 doi: "10.1145/3313831.3376698"
 
@@ -16,8 +22,8 @@ publishDate: 2020-09-25T15:49:20+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems"
+publication_short: "CHI '20"
 
 abstract: "The use of Virtual Reality (VR) in applications such as data analysis, artistic creation, and clinical settings requires high precision input. However, the current design of handheld controllers, where wrist rotation is the primary input approach, does not exploit the human fingers' capability for dexterous movements for high precision pointing and selection. To address this issue, we investigated the characteristics and potential of using a pen as a VR input device. We conducted two studies. The first examined which pen grip allowed the largest range of motion---we found a tripod grip at the rear end of the shaft met this criterion. The second study investigated target selection via 'poking' and ray-casting, where we found the pen grip outperformed the traditional wrist-based input in both cases. Finally, we demonstrate potential applications enabled by VR pen input and grip postures."
 
@@ -36,14 +42,14 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: publication/CHI2020-VRPen/Paper569.pdf
+url_pdf: publication/chi2020-vrpen/Paper569.pdf
 url_code:
 url_dataset:
 url_poster:
 url_project:
 url_slides:
 url_source:
-url_video:
+url_video: publication/chi2020-vrpen/chi20c-sub7836-cam-i19.mp4
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

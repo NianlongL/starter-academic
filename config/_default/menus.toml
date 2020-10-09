@@ -11,18 +11,18 @@
 
 
 [[main]]
-  name = "Publications"
-  url = "#publications"
+  name = "News"
+  url = "#tags"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Publications"
+  url = "#publications"
   weight = 30
 
 [[main]]
   name = "Awards"
-  url = "#awards"
+  url = "#accomplishments"
   weight = 40
 
 [[main]]

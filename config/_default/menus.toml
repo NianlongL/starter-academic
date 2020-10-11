@@ -12,7 +12,7 @@
 
 [[main]]
   name = "News"
-  url = "#tags"
+  url = "#news"
   weight = 20
 
 [[main]]
@@ -21,14 +21,24 @@
   weight = 30
 
 [[main]]
+  name = "Patents"
+  url = "#patents"
+  weight = 40
+
+[[main]]
   name = "Awards"
   url = "#accomplishments"
-  weight = 40
+  weight = 50
+
+[[main]]
+  name = "Services"
+  url = "#service"
+  weight = 60
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 50
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

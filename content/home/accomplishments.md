@@ -32,7 +32,7 @@ item:
   description: ""
   organization: ACM International Collegiate Programming Contest
   organization_url: https://icpc.global/
-  title: The 2014 ACM-ICPC Asia Regional Contest, Bronze Medal (Xi'an Site, Guangzhou Site)
+  title: 2014 ACM-ICPC Asia Regional Contest, Bronze Medal (Xi'an Site, Guangzhou Site)
   url: ""
 
 - certificate_url: awards/NECCS2015.jpg
@@ -41,7 +41,7 @@ item:
   description: 
   organization: College English Teaching & Research Association of China
   organization_url: http://www.chinaneccs.cn/
-  title: The 2015 National English Competition for College Students, Second Prize (Band C)
+  title: 2015 National English Competition for College Students, Second Prize (Band C)
   url: 
 
 - certificate_url: awards/CCFEliteCollegiateAward2015.jpg
@@ -50,7 +50,16 @@ item:
   description: ""
   organization: China Computer Federation
   organization_url: https://www.ccf.org.cn/en/
-  title: 'The 2015 CCF Elite Collegiate Award'
+  title: '2015 CCF Elite Collegiate Award'
+  url: ""
+
+- certificate_url: awards/graduates.jpg
+  date_end: ""
+  date_start: "2016-05-30"
+  description: ""
+  organization: The Education Department of Hunan Province
+  organization_url: http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/tzgg/201701/t20170121_3953908.html
+  title: 'Outstanding Graduates of Hunan Province'
   url: ""
 
 - certificate_url: awards/awardchi2020.jpg
@@ -58,16 +67,16 @@ item:
   date_start: "2020-03-22"
   description: ""
   organization: ACM SIGCHI
-  organization_url: https://chi2020.acm.org/for-attendees/chi-2020-best-papers-honourable-mentions/
+  organization_url: https://chi2020.acm.org/
   title: 'Best Paper Honorable Mention Award (top 5%), ACM CHI 2020'
   url: ""
 
 - certificate_url: ""
   date_end: ""
-  date_start: "2020-09-22"
+  date_start: "2020-08-29"
   description: "To Appear"
   organization: ACM SIGCHI
-  organization_url: https://www.ccf.org.cn/en/
+  organization_url: https://uist.acm.org/uist2020/index.html
   title: 'Best Paper Honorable Mention Award (top 5%), ACM UIST 2020'
   url: ""
 ---

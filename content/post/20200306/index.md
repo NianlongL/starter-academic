@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: ""
+title: "A Moving Target Selection Technology based on Correction of User Performance Model. "
 subtitle: ""
-summary: ""
-authors: []
+summary: "Filed: 2018-06-01. Patent No. CN 2018105586224"
+authors: [Jin Huang, Nianlong Li, Feng Tian, Hongan Wang]
 tags: []
 categories: []
 date: 2020-03-06
@@ -27,4 +27,3 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Our paper received an Honourable Mention Award at CHI 2020.

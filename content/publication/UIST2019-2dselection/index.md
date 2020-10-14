@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Modeling the Uncertainty in 2D Moving Target Selection (UIST' 19)"
+title: "Modeling the Uncertainty in 2D Moving Target Selection (UIST '19)"
 authors: [Jin Huang, "Feng Tian*", "**Nianlong Li**", Xiangmin Fan]
 date: 2019-10-20T15:30:59+08:00
 doi: "10.1145/3332165.3347880"

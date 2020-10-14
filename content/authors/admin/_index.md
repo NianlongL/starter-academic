@@ -73,4 +73,4 @@ user_groups:
 
 I am a 5th-year PhD student in the Beijing Key Lab of Human-Computer Interaction at the Institute of Software, Chinese Academy of Sciences [(ISCAS)](http://www.is.cas.cn/), advised by Prof. [Feng Tian](http://lcs.ios.ac.cn/~fengt/) and Associate Prof. [Teng Han](http://teng-han.com/). My research interests lie in the area of human-computer interaction (HCI), focusing on *interaction techniques in virtual and augmented reality (VR/AR)*, *understanding and modeling human behaviors*. Before coming to ISCAS, I completed my B.S. degree in Software Engineering at [Xiangtan University](https://www.xtu.edu.cn/) in 2016. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "authors/admin/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "author/nianlong-li/resume.pdf" "newtab" >}}CV{{< /staticref >}}.

@@ -27,12 +27,12 @@ design:
 
 **Teaching Assistant**
 ----|---
-UCAS -  *Intelligent Human Computer Interaction (251M5009H)* - 2017, Fall
 UCAS - *User Interface Design, Development & Evaluation (251M6008H)* - 2018, Spring 
+UCAS -  *Intelligent Human Computer Interaction (251M5009H)* - 2017, Fall
 
 **Reviewing**
 ----|---
-Chinagraph 2018 / CHI 2020 / CHI LBW 2020 / CHCI 2020 / CHI 2021
+Chinagraph 2018 / CHI 2020 / CHI LBW 2020 / ICMI 2020 / CHCI 2020 / CHI 2021
 
 **Volunteer**
 ----|---

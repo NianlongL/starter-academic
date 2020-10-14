@@ -32,7 +32,16 @@ item:
   description: ""
   organization: ACM International Collegiate Programming Contest
   organization_url: https://icpc.global/
-  title: 2014 ACM-ICPC Asia Regional Contest, Bronze Medal (Xi'an Site, Guangzhou Site)
+  title: ACM-ICPC Asia Regional Contest, Bronze Medal (Xi'an Site, Guangzhou Site)
+  url: ""
+
+- certificate_url: awards/scholarship.jpg
+  date_end: ""
+  date_start: "2014-11-20"
+  description: ""
+  organization: Ministry of Education of China
+  organization_url: http://en.moe.gov.cn/
+  title: China National Scholarship
   url: ""
 
 - certificate_url: awards/NECCS2015.jpg
@@ -41,7 +50,7 @@ item:
   description: 
   organization: College English Teaching & Research Association of China
   organization_url: http://www.chinaneccs.cn/
-  title: 2015 National English Competition for College Students, Second Prize (Band C)
+  title: National English Competition for College Students, Second Prize
   url: 
 
 - certificate_url: awards/CCFEliteCollegiateAward2015.jpg
@@ -50,7 +59,7 @@ item:
   description: ""
   organization: China Computer Federation
   organization_url: https://www.ccf.org.cn/en/
-  title: '2015 CCF Elite Collegiate Award'
+  title: 'CCF Elite Collegiate Award'
   url: ""
 
 - certificate_url: awards/graduates.jpg

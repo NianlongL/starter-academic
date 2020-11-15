@@ -31,6 +31,14 @@ design:
    <col style="width:10%">
    <col style="width:90%">
    <tr>
+      <td>[11/2020]</td>
+      <td>Awarded National Scholarship for Doctoral students! (top 0.2%)</td>
+   </tr>
+   <tr>
+      <td>[10/2020]</td>
+      <td>Attending UIST 2020 virtually for presenting our paper "HapLinkage"!</td>
+   </tr>
+   <tr>
       <td>[10/2020]</td>
       <td>Will give a presentation in the thesis communication of HHME 2020 , see you in Chongqing, China!</td>
    </tr>

@@ -41,7 +41,7 @@ item:
   description: ""
   organization: Ministry of Education of China
   organization_url: http://en.moe.gov.cn/
-  title: China National Scholarship
+  title: China National Scholarship for Undergraduates
   url: ""
 
 - certificate_url: awards/NECCS2015.jpg
@@ -80,12 +80,22 @@ item:
   title: 'Best Paper Honorable Mention Award (top 5%), ACM CHI 2020'
   url: ""
 
-- certificate_url: ""
+- certificate_url: "awards/UIST2020-Award.pdf"
   date_end: ""
   date_start: "2020-08-29"
-  description: "To Appear"
+  description: ""
   organization: ACM SIGCHI
   organization_url: https://uist.acm.org/uist2020/index.html
   title: 'Best Paper Honorable Mention Award (top 5%), ACM UIST 2020'
+  url: ""
+
+
+- certificate_url: ""
+  date_end: ""
+  date_start: "2020-11-09"
+  description: "To Appear"
+  organization: Ministry of Education of China
+  organization_url: http://en.moe.gov.cn/
+  title: China National Scholarship for Doctoral students
   url: ""
 ---

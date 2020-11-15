@@ -41,7 +41,7 @@ item:
   description: ""
   organization: Ministry of Education of China
   organization_url: http://en.moe.gov.cn/
-  title: China National Scholarship for Undergraduates
+  title: China National Scholarship for Undergraduates (top 0.2%)
   url: ""
 
 - certificate_url: awards/NECCS2015.jpg
@@ -96,6 +96,6 @@ item:
   description: "To Appear"
   organization: Ministry of Education of China
   organization_url: http://en.moe.gov.cn/
-  title: China National Scholarship for Doctoral students
+  title: China National Scholarship for Doctoral students (top 0.2%)
   url: ""
 ---

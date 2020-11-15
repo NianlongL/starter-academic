@@ -32,7 +32,7 @@ design:
    <col style="width:90%">
    <tr>
       <td>[11/2020]</td>
-      <td>Awarded National Scholarship for Doctoral students! (top 0.2%)</td>
+      <td>Awarded National Scholarship for Doctoral students!</td>
    </tr>
    <tr>
       <td>[10/2020]</td>

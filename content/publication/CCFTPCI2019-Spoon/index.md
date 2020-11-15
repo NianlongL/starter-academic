@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Monitoring motor symptoms in Parkinson's disease via instrumenting daily artifacts with inertia sensors (CCFTPCI '19)"
+title: "(CCFTPCI '19) Monitoring motor symptoms in Parkinson's disease via instrumenting daily artifacts with inertia sensors"
 
 authors: ["**Nianlong Li**" , "Feng Tian*", Xiangmin Fan, Yicheng Zhu, Hongan Wang, Guozhong Dai]
 

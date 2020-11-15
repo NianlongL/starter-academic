@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Get a Grip: Evaluating Grip Gestures for VR Input using a Lightweight Pen (CHI '20)"
+title: "(CHI '20) Get a Grip: Evaluating Grip Gestures for VR Input using a Lightweight Pen"
 authors: ["**Nianlong Li**", "Teng Han*", Feng Tian, Jin Huang, Minghui Sun,  Pourang Irani, "Jason Alexander
 <div>
 <img style='float: left;' src='/publication/icon-award.jpg'>

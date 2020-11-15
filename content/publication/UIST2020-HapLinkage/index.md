@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "HapLinkage: Prototyping Haptic Proxies for Virtual Hand Tools Using Linkage Mechanism (UIST '20)"
+title: "(UIST '20) HapLinkage: Prototyping Haptic Proxies for Virtual Hand Tools Using Linkage Mechanism"
 
 authors: ["**Nianlong Li**", Han-Jong Kim, Luyao Shen, Feng Tian, "Teng Han*", Xing-Dong Yang, "Tek-Jin Nam   
 <div>

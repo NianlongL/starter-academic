@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "2D-BayesPointer: An Implicit Moving Target Selection Technique Enabled by Human Performance Modeling (CHI LBW '18)"
+title: "(CHI LBW '18) 2D-BayesPointer: An Implicit Moving Target Selection Technique Enabled by Human Performance Modeling"
 authors: ["**Nianlong Li**", Feng Tian*, Jin Huang, Xiangmin Fan, Hongan Wang]
 date: 2018-04-26T16:49:35+08:00
 doi: "10.1145/3170427.3188520"

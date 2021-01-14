@@ -30,6 +30,10 @@ design:
 <table width = "100%" >
    <col style="width:10%">
    <col style="width:90%">
+    <tr>
+      <td>[12/2020]</td>
+      <td>Our full paper entitled "vMirror: Enhancing the Interaction with Occluded or Distant Objects in VR with Virtual Mirrors" is accepted by CHI 2021!</td>
+   </tr>
    <tr>
       <td>[11/2020]</td>
       <td>Awarded National Scholarship for Doctoral students!</td>

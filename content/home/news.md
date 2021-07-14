@@ -30,7 +30,15 @@ design:
 <table width = "100%" >
    <col style="width:10%">
    <col style="width:90%">
-    <tr>
+   <tr>
+      <td>[05/2021]</td>
+      <td>Awarded President Prize of Chinese Academy of Sciences!</td>
+   </tr>
+   <tr>
+      <td>[04/2021]</td>
+      <td>Our full paper entitled "Douleur: Creating Pain Sensation with Chemical Stimulant to Enhance User Experience in Virtual Reality" is accepted by IMWUT 2021!</td>
+   </tr>
+   <tr>
       <td>[12/2020]</td>
       <td>Our full paper entitled "vMirror: Enhancing the Interaction with Occluded or Distant Objects in VR with Virtual Mirrors" is accepted by CHI 2021!</td>
    </tr>

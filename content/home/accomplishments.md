@@ -90,10 +90,10 @@ item:
   url: ""
 
 
-- certificate_url: ""
+- certificate_url: "awards/scholarship-doc.pdf"
   date_end: ""
   date_start: "2020-11-09"
-  description: "To Appear"
+  description: ""
   organization: Ministry of Education of China
   organization_url: http://en.moe.gov.cn/
   title: China National Scholarship for Doctoral students (top 0.2%)

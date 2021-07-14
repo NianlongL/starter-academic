@@ -3,13 +3,16 @@
 
 title: "(CHI '21) vMirror: Enhancing the Interaction with Occluded or Distant Objects in VR
 with Virtual Mirrors"
-authors: ["**Nianlong Li**", Zhengquan Zhang, Can Liu, "Zengyao Yang*", Yinan Fu, Feng Tian, Teng Han, "Mingming Fan
-<div>
-<font color=red>To Appear</font>
-</div>
-"]
+authors: ["**Nianlong Li**", Zhengquan Zhang, Can Liu, "Zengyao Yang*", Yinan Fu, Feng Tian, Teng Han, "Mingming Fan"]
+
+#authors: ["**Nianlong Li**", Zhengquan Zhang, Can Liu, "Zengyao Yang*", Yinan Fu, Feng Tian, #Teng Han, "Mingming Fan
+#<div>
+#<font color=red>To Appear</font>
+#</div>
+#"]
+
 date: 2021-01-14T15:48:39+08:00
-doi: ""
+doi: "10.1145/3411764.3445537"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-01-14T15:48:39+08:00
@@ -41,14 +44,14 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: publication/chi2021-vmirror/vMirror.pdf
 url_code:
 url_dataset:
 url_poster:
 url_project:
 url_slides:
 url_source:
-url_video:
+url_video: publication/chi2021-vmirror/vMirror_video.mp4
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

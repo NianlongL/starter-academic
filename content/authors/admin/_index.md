@@ -63,7 +63,7 @@ social:
 #   link: media/resume.pdf
 
 # Email for Contact widget or Gravatar
-email: "nianlong2016@iscas.ac.cn"
+email: "linl1@lenovo.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Remove this if you are not using the People widget.

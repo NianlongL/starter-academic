@@ -6,13 +6,13 @@ title: Nianlong Li
 superuser: true
 
 # Role/position/tagline
-role: PhD student <br/> 
+role: Staff Researcher <br/> 
         Human-computer Interaction
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Institute of Software, Chinese Academy of Sciences
-  url: http://www.is.cas.cn/
+- name: Lenovo Research
+  url: http://research.lenovo.com/webapp/view_English/index.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: University of Chinese Academy of Sciences
-    year: 2016-present
+    year: 2016-2022
   - course: BSc in Software Engineering
     institution: Xiangtan University
     year: 2012-2016
@@ -71,6 +71,8 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a 5th-year PhD student in the Beijing Key Lab of Human-Computer Interaction at the Institute of Software, Chinese Academy of Sciences [(ISCAS)](http://www.is.cas.cn/), advised by Prof. [Feng Tian](http://lcs.ios.ac.cn/~fengt/) and Associate Prof. [Teng Han](http://teng-han.com/). My research interests lie in the area of human-computer interaction (HCI), focusing on *interaction techniques in virtual and augmented reality (VR/AR)*, *understanding and modeling human behaviors*. Before coming to ISCAS, I completed my B.S. degree in Software Engineering at [Xiangtan University](https://www.xtu.edu.cn/) in 2016. 
+I am a Staff Research at the [Lenovo Research](http://research.lenovo.com/webapp/view_English/index.html). My research interests lie in the area of human-computer interaction (HCI), focusing on *interaction techniques in virtual and augmented reality (VR/AR)*, *understanding and modeling human behaviors*. 
+
+I received my Ph.D. (Jan, 2022) from the Beijing Key Lab of Human-Computer Interaction at the Institute of Software, Chinese Academy of Sciences [(ISCAS)](http://www.is.cas.cn/), advised by Prof. [Feng Tian](http://lcs.ios.ac.cn/~fengt/) and Associate Prof. [Teng Han](http://teng-han.com/). Before coming to ISCAS, I completed my B.S. degree in Software Engineering at [Xiangtan University](https://www.xtu.edu.cn/) in 2016. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "author/nianlong-li/resume.pdf" "newtab" >}}CV{{< /staticref >}}.

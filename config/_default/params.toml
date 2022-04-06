@@ -88,12 +88,12 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "nianlong2016@iscas.ac.cn"
+email = "linl1@lenovo.com"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Institute of Software, Chinese Academy of Sciences <br/> 4# South Fourth Street", city = "Zhong Guan Cun", region = "Beijing", postcode = "100190", country = "China", country_code = "CN"}
+address = {street = "Lenovo Research <br/> Building 1, No.10 Courtyard Xibeiwang East Road <br/> Haidian District", city = "", region = "Beijing, China", postcode = "100094", country = "China", country_code = "CN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.

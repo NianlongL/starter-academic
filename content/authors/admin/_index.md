@@ -34,8 +34,6 @@ education:
     institution: Xiangtan University
     year: 2012-2016
 
-career:
-
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -76,9 +74,16 @@ user_groups:
 
 Nianlong Li is an Associate Professor at the Beijing Key Laboratory of Human-Computer Interaction, [Institute of Software, Chinese Academy of Sciences (ISCAS)](http://www.iscas.ac.cn/), and is supported by the *Hundred Talents Plan of Chinese Academy of Sciences*. Prior to joining ISCAS, Nianlong was a researcher at Lenovo Research, where he contributed to core interaction technologies and platforms for the company' s glasses-free 3D product line. He received his Ph.D. in Computer Science from the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/) in 2022, under the supervision of Prof. [Feng Tian](http://lcs.ios.ac.cn/~fengt/) and Prof. [Teng Han](http://teng-han.com/). 
 
-Nianlong's research focuses on Human-Computer Interaction (HCI), with a particular emphasis on *spatial interaction paradigms for 3D interfaces and embodied intelligent agents*. His research interests include: 
-- Modeling human behaviors to uncover interaction mechanisms; 
-- Optimizing devices and multimodal techniques to improve task efficiency; 
-- Transferring user abilities to agents to advance human-machine collaboration.
+Nianlong's research focuses on Human-Computer Interaction (HCI), with a particular emphasis on *spatial interaction paradigms for 3D interfaces and embodied intelligent agents*. His research interests include: 1) Modeling human behaviors to uncover interaction mechanisms; 2) Optimizing devices and multimodal techniques to improve task efficiency; 3) Transferring user abilities to agents to advance human-machine collaboration.
 
+<!--
+<div style="padding-left: 0.5ch;">
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "author/nianlong-li/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+</div>
+-->
+
+
+<div>
+<img style='float: left; width: 5%;' src='/authors/broadcast.png'>
+<font color=red>I am looking for both long-term and short-term interns. If interested, drop me an email.</font>
+</div>

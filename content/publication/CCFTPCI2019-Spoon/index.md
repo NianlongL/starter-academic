@@ -5,7 +5,7 @@ title: "(CCFTPCI '19) Monitoring motor symptoms in Parkinson's disease via instr
 
 authors: ["**Nianlong Li**" , "Feng Tian*", Xiangmin Fan, Yicheng Zhu, Hongan Wang, Guozhong Dai]
 
-date: 2019-04-8T16:56:27+08:00
+date: 2019-04-08
 doi: "10.1007/s42486-019-00008-z"
 
 # Schedule page publish date (NOT publication's date).

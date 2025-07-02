@@ -6,23 +6,23 @@ title: Nianlong Li
 superuser: true
 
 # Role/position/tagline
-role: Staff Researcher <br/> 
+role: Associate Professor <br/> 
         Human-computer Interaction
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Lenovo Research
-  url: http://research.lenovo.com/webapp/view_English/index.html
+- name: Intitute of Software, Chinese Academy of Sciences
+  url: http://www.iscas.ac.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
-- VR/AR Interaction
-- Haptics and Illusions
-- Multimodal Interaction
-- Human Behaviors Modeling
+#interests:
+#- VR/AR Interaction
+#- Haptics and Illusions
+#- Multimodal Interaction
+#- Human Behaviors Modeling
 
 # Education to show in About widget
 education:
@@ -33,6 +33,9 @@ education:
   - course: BSc in Software Engineering
     institution: Xiangtan University
     year: 2012-2016
+
+career:
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -63,7 +66,7 @@ social:
 #   link: media/resume.pdf
 
 # Email for Contact widget or Gravatar
-email: "linl1@lenovo.com"
+email: "linianlong@iscas.ac.cn"
 
 # Organizational groups that you belong to (for People widget)
 #   Remove this if you are not using the People widget.
@@ -71,8 +74,11 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a Staff Research at the [Lenovo Research](http://research.lenovo.com/webapp/view_English/index.html). My research interests lie in the area of human-computer interaction (HCI), focusing on *interaction techniques in virtual and augmented reality (VR/AR)*, *understanding and modeling human behaviors*. 
+Nianlong Li is an Associate Professor at the Beijing Key Laboratory of Human-Computer Interaction, [Institute of Software, Chinese Academy of Sciences (ISCAS)](http://www.iscas.ac.cn/), and is supported by the *Hundred Talents Plan of Chinese Academy of Sciences*. Prior to joining ISCAS, Nianlong was a researcher at Lenovo Research, where he contributed to core interaction technologies and platforms for the company' s glasses-free 3D product line. He received his Ph.D. in Computer Science from the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/) in 2022, under the supervision of Prof. [Feng Tian](http://lcs.ios.ac.cn/~fengt/) and Prof. [Teng Han](http://teng-han.com/). 
 
-I received my Ph.D. (Jan, 2022) from the Beijing Key Lab of Human-Computer Interaction at the Institute of Software, Chinese Academy of Sciences [(ISCAS)](http://www.is.cas.cn/), advised by Prof. [Feng Tian](http://lcs.ios.ac.cn/~fengt/) and Associate Prof. [Teng Han](http://teng-han.com/). Before coming to ISCAS, I completed my B.S. degree in Software Engineering at [Xiangtan University](https://www.xtu.edu.cn/) in 2016. 
+Nianlong's research focuses on Human-Computer Interaction (HCI), with a particular emphasis on *spatial interaction paradigms for 3D interfaces and embodied intelligent agents*. His research interests include: 
+- Modeling human behaviors to uncover interaction mechanisms; 
+- Optimizing devices and multimodal techniques to improve task efficiency; 
+- Transferring user abilities to agents to advance human-machine collaboration.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "author/nianlong-li/resume.pdf" "newtab" >}}CV{{< /staticref >}}.

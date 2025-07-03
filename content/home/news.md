@@ -30,6 +30,23 @@ design:
 <table width = "100%" >
    <col style="width:10%">
    <col style="width:90%">
+   
+   <tr>
+      <td>[06/2025]</td>
+      <td>Back to ISCAS, a new beginning! </td>
+   </tr>
+   <tr>
+      <td>[01/2025]</td>
+      <td>Two papers got accpted by ACM CHI 2025! Thanks to all collaborators!</td>
+   </tr>
+   <tr>
+      <td>[01/2025]</td>
+      <td>Our full paper entitled "A Dual-Stick Controller for Enhancing Raycasting Interactions with Virtual Objects" is accepted by IEEE VR 2025!</td>
+   </tr>
+   <tr>
+      <td>[02/2022]</td>
+      <td>Officially joined Lenovo Research! </td>
+   </tr>
    <tr>
       <td>[05/2021]</td>
       <td>Awarded President Prize of Chinese Academy of Sciences!</td>

@@ -32,10 +32,10 @@ UCAS -  *Intelligent Human Computer Interaction (251M5009H)* - 2017, Fall
 
 **Reviewing**
 ----|---
-Chinagraph 2018 / CHI 2020 / CHI LBW 2020 / ICMI 2020 / CHCI 2020 / CHI 2021
+ CHI 2020/2021, ISMAR 2023, UIST 2024, VR 2025, IJHCS 2025
 
+<!--
 **Volunteer**
 ----|---
-Public Science Day of Chinese Academy of Sciences 2019 @ ISCAS
-National "Software and Network" Summer Camp for College Students 2018 @ ISCAS
 ChineseCHI 2018 @ Montreal, Canada
+-->
